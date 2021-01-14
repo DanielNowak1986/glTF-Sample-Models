@@ -311,6 +311,14 @@
     }
   },
   {
+    "name": "MaterialsVariantsShoe",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "MaterialsVariantsShoe.gltf",
+      "glTF-Binary": "MaterialsVariantsShoe.glb"
+    }
+  },
+  {
     "name": "MetalRoughSpheres",
     "screenshot": "screenshot/screenshot.png",
     "variants": {
@@ -411,6 +419,21 @@
   },
   {
     "name": "SheenChair",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "SheenChair.gltf",
+      "glTF-Binary": "SheenChair.glb"
+    }
+  },
+  {
+    "name": "SheenCloth",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "SheenCloth.gltf"
+    }
+  },
+  {
+    "name": "SheenChair(gltf_sheen_damask)",
     "variants": {
       "glTF": "gltf_sheen_damask.gltf"
     }
@@ -510,18 +533,7 @@
     }
   },
   {
-    "name": "ToyCar",
-    "variants": {
-      "glTF": "ToyCar.gltf"
-    }
-  },
-  {
-    "name": "TransmissionSuzanne",
-    "variants": {
-      "glTF": "TransmissionSuzanne.gltf"
-    }
-  },
-  {
+
     "name": "TransmissionTest",
     "screenshot": "screenshot/screenshot.jpg",
     "variants": {
